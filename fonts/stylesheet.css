@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Snell';
+    src: url('../fonts/SnellBT-Bold.woff2') format('woff2'),
+        url('../fonts/SnellBT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
